@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+pymupdf
+torch
+pymupdf
+transformers
+nltk
+bs4
+scikit-learn
+python-certifi-win32
